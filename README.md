@@ -1,6 +1,7 @@
 # snmpDget
-SNMP　MIBブラウザ windows10 windows2016
+SNMP MIBブラウザ 
 
-Code → DownLoad Zip
+windows10 windows2016
 
-からダウンロードし、SnmpDGet.exeを実行する。
+Code → DownLoad.Zipからダウンロードし、
+SnmpDGet.exeを実行する。
